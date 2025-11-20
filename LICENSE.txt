@@ -1,0 +1,11 @@
+© Microsoft - Xbox - HALO - Bungie - Gearbox
+
+COMPILED using mingw32 lfsky for HALO NV2A Project
+
+DUE TO VOLATILE NATURE OF CONTENT PROJECT PROVIDED AS IS WITH LICENSE AGREEMENT
+REVERSE COMPILATION IS NOT ALLOWED AND DISTRIBUTION ELSEWHERE PROHIBITED
+
+Under no circumstances will the user hold the authors of chimera or this modifcation accountable 
+for any issues, defects, damage or malfunction which arise using this software on HALO for PC
+
+WE ARE NOT RESPONSIBLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES
