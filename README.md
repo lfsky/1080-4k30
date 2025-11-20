@@ -12,7 +12,7 @@ A modified version of chimera which restores a few features how they were intend
 This project will evolve over time to as chimera does and will eventually lock the framerate to 
 avoid confusion altogether as a seperate unique version for an intended purpose exclusively.
 
-NOTE GAMMA LOCK AFFECTS THE OS AND REQUIRES RESTART TO RESET VALUES TO DEFAULT
+NOTE GAMMA LOCK AFFECTS THE OS AND REQUIRES RESTART TO RESET DEFAULT
  
 What it does over the regular chimera version to maintain consistency with the 2003 version.
  
