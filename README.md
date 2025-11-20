@@ -8,11 +8,6 @@ A modified version of chimera which restores a few features how they were intend
 	• Reverted contrail fixes
 	• Reverted Gamma lock
 	• Restored 1103 waves
-	
-A more appropriate way to do this would utilize chimera_tps (ticks per second) of HALO then 
-slow everything down 1/2 for 60hz or 1/4 for 120 hz to remain consistent with rendering. However,
-this is beyond the scope of current programming knowledge and also would require a top of
-the line system to consistently achieve this playable framerate in the most ideal circumstances.
 
 This project will evolve over time to as chimera does and will eventually lock the framerate to 
 avoid confusion altogether as a seperate unique version for an intended purpose exclusively.
@@ -37,6 +32,6 @@ Overwrite all files, keep a copy of your strings.dll just in case needing to rev
 
 Developed Exclusively for HALO NV2A
 
-v. 1080
+v. 1119
 
 lfsky
