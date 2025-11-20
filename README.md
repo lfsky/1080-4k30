@@ -27,7 +27,7 @@ Install placing everything inside the selection folder into
 	CE\
 
 
-Overwrite all files, keep a copy of your strings.dll just in case needing to revert or pick and choose.
+Overwrite all files, keep a copy of your strings.dll just in case needing to revert.
 
 
 Developed Exclusively for HALO NV2A
